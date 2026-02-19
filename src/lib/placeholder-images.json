@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "player1-avatar",
+      "description": "Avatar for Michael 'Venom' Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFsZSUyMHBvcnRyYWl0fGVufDB8fHx8MTc3MDYzMzQzMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "player2-avatar",
+      "description": "Avatar for Gerwyn 'The Iceman' Price",
+      "imageUrl": "https://images.unsplash.com/photo-1692197393247-c76e1bd8f29e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzcwNjMzNDMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "player3-avatar",
+      "description": "Avatar for Peter 'Snakebite' Wright",
+      "imageUrl": "https://images.unsplash.com/photo-1692197393247-c76e1bd8f29e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzcwNjMzNDMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "male portrait"
+    },
+    {
+      "id": "player4-avatar",
+      "description": "Avatar for Luke 'The Nuke' Littler",
+      "imageUrl": "https://images.unsplash.com/photo-1534614971-6be99a7a3ffd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx5b3VuZyUyMG1hbGV8ZW58MHx8fHwxNzcwNjg3NTYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "young male"
+    },
+    {
+      "id": "player5-avatar",
+      "description": "Avatar for Fallon 'The Queen' Sherrock",
+      "imageUrl": "https://images.unsplash.com/photo-1524255684952-d7185b509571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmZW1hbGUlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NzA2NTY0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "female portrait"
+    },
+    {
+      "id": "player6-avatar",
+      "description": "Avatar for Dimitri 'The DreamMaker' Van den Bergh",
+      "imageUrl": "https://images.unsplash.com/photo-1633367583895-08545d733dfe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW4lMjBzbWlsaW5nfGVufDB8fHx8MTc3MDY3ODcyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man smiling"
+    },
+    {
+      "id": "player7-avatar",
+      "description": "Avatar for 'Mighty' Michael van Gerwen",
+      "imageUrl": "https://images.unsplash.com/photo-1721098122643-9f1bcfc2fca4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYW4lMjBjZWxlYnJhdGluZ3xlbnwwfHx8fDE3NzA2ODc1NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man celebrating"
+    },
+    {
+      "id": "player8-avatar",
+      "description": "Avatar for Gary 'The Flying Scotsman' Anderson",
+      "imageUrl": "https://images.unsplash.com/photo-1658314755819-72c38b317e61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxvbGRlciUyMG1hbnxlbnwwfHx8fDE3NzA2ODc1NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "older man"
+    }
+  ]
+}
