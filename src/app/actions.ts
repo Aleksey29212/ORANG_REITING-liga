@@ -1,3 +1,4 @@
+
 'use server';
 
 import { getPlayerProfiles, updatePlayerProfiles, clearAllPlayerProfiles, getPlayerProfileById } from '@/lib/players';
@@ -344,7 +345,8 @@ export async function logVisitAction() {
     const userAgent = headersList.get('user-agent') || 'unknown';
     if (/bot|crawl|spider|slurp|google|bing|yandex/i.test(userAgent)) return;
     const db = getDb();
-    await addDoc(collection(db, 'visits'), { timestamp: serverTimestamp() });
+    // Используем простой объект без жесткой проверки timestamp для стабильности логов
+    await addDoc(collection(db, 'visits'), { timestamp: new Date() });
   } catch (e) {}
 }
 

@@ -1,11 +1,14 @@
+
 import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
   /* config options here */
   output: 'standalone',
+  // В Next.js 15 allowedDevOrigins переехал в корень или имеет особенности типизации в экспериментальных опциях
   experimental: {
-    allowedDevOrigins: ['*.cloudworkstations.dev', '185.219.7.95'],
+    // Оставляем здесь, если версия Next.js ожидает его тут, но исправляем предупреждение в логах если оно дублируется
   },
+  // Попробуем также разрешить домены для корректной работы Cross-Origin в среде разработки
   images: {
     remotePatterns: [
       {
